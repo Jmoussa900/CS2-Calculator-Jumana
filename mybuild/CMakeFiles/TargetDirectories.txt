@@ -1,0 +1,3 @@
+/Users/jojo/Desktop/CS2-Calculator-Jumana/mybuild/CMakeFiles/final.dir
+/Users/jojo/Desktop/CS2-Calculator-Jumana/mybuild/CMakeFiles/edit_cache.dir
+/Users/jojo/Desktop/CS2-Calculator-Jumana/mybuild/CMakeFiles/rebuild_cache.dir
